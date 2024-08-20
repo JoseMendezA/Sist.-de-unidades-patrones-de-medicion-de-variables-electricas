@@ -23,7 +23,7 @@ Este taller se enfoca en los conceptos actuales y fundamentales de los **sistema
 - **Unidades anglosajonas** y su conversión al SI en sistemas industriales.
 
 > [!IMPORTANT]
-> **Ejercicio 1 (20 puntos):** Convertir las mediciones de diferentes variables eléctricas entre el sistema SI y el sistema CGS. Análisis de la importancia de la conversión correcta en una aplicación.
+> **Ejercicio 1 (Opcional - Otorga 20 puntos):** Convertir las mediciones de tres variables eléctricas entre el sistema SI y el sistema CGS. Análizar la importancia de la conversión correcta en una aplicación.
 
 > [!TIP]
 > El Sistema Internacional de Unidades (SI) y el Sistema Cegesimal de Unidades (CGS) son dos sistemas de medición utilizados en física, especialmente en el campo de la electricidad y el magnetismo. El SI es el sistema estándar actualmente. Comprender las conversiones entre ambos sistemas resulta útil para tener una visión más amplia de las unidades eléctricas.
@@ -49,7 +49,7 @@ Este taller se enfoca en los conceptos actuales y fundamentales de los **sistema
 - **Patrones de trabajo y patrones de referencia**: Su rol en la cadena de trazabilidad metrológica.
 
 > [!IMPORTANT]
-> **Ejercicio 2 (20 puntos):** Consultar un patrón de medición de una variable eléctrica, identificar si es primario o secundario, y discutir su rol en un laboratorio de calibración.
+> **Ejercicio 2 (30 puntos):** Consultar un patrón de medición de una variable eléctrica, identificar si es primario o secundario, y discutir su rol en un laboratorio de calibración.
 
 ---
 
@@ -67,16 +67,16 @@ Este taller se enfoca en los conceptos actuales y fundamentales de los **sistema
 - **Concepto de trazabilidad metrológica:** Cómo asegurar que las mediciones estén alineadas con los estándares globales.
 
 > [!IMPORTANT]
-> **Ejercicio 3 (30 Puntos):** Realizar un diagrama de flujo de un proceso de calibración para un instrumento de medición eléctrica (multímetro digital).
+> **Ejercicio 3 (35 Puntos):** Realizar un diagrama de flujo de un proceso de calibración para un instrumento de medición eléctrica (multímetro digital).
 > Tomar como referencia:
 > [Guía de calibración de multímetros - Insituto Nacional de Metrología INM](https://inm.gov.co/web/wp-content/uploads/2022/11/1_2022_Guia-para-la-Calibracion-de-MULTIMETROS-DIGITALES-4-5_6-50-000-CUENTAS-min.pdf) 
 
 ---
 
-### 4. Metrología y la Inteligencia Artificial (30 Puntos)
+### 4. Metrología y la Inteligencia Artificial (35 Puntos)
 
-- ¿Qué desafíos enfrentan los laboratorios de calibración hoy en día frente al avance de las tecnologías de medición eléctrica?
-- Realizar consulta sobre las aplicaciones actuales y potenciales de la inteligencia artificial en los laboratorios de metrología.
+- ¿Qué desafíos enfrentan los laboratorios de calibración hoy en día frente al avance de las tecnologías de medición eléctrica? (15 puntos)
+- Realizar consulta sobre las aplicaciones actuales y potenciales de la inteligencia artificial en los laboratorios de metrología. (20 puntos)
   - Ejemplo: [IA en Laboratorios de Metrología - Entre la promesa y la realidad](https://www.linkedin.com/pulse/inteligencia-artificial-en-laboratorios-de-metrolog%C3%ADa-constantino-gptsf/)
 
 ---
